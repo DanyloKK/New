@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+}
+div{
+    width: 50vw;
+    height: 50vh;
+    border: 5px solid rosybrown;
+    background: url("../Images/photo_2024-06-14_13-11-48.jpg")0 0 no-repeat;
+    background-clip: padding-box;
+    background-origin: border-box;
+    background-size: contain;
+}
